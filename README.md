@@ -1,6 +1,11 @@
 # PowerPulse
 Full-Stack CRUD Application
 
+Running of the App:
+1. Go to the backend folder and run "npm run dev".
+2. Then go to the frontend folder and run "npm start".
+3. And there goes your application and you can view it in browser.
+
 ## Inspiration
 In this continuously progressing world, people are busy with their own schedules, and many times they forget to take care of their health and fitness.
 
