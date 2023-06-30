@@ -1,0 +1,149 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@700&family=Eczar&family=Foldit:wght@600&family=Gentium+Plus&family=Lobster&family=Raleway:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Signika+Negative:wght@300;500&display=swap');
+
+:root{
+  --error: #0400ff;
+}
+
+body{
+  background: rgb(0, 0, 0);
+  margin: 0;
+  font-family: "Eczar";
+  background-image: url("D:\Projects\Backend\Project-2_To-Do-List-Full-Stack\frontend\pexels-cottonbro-studio-4753996.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+}
+
+header{
+  background: rgb(0, 0, 0);
+  /* background-image: url("D:\Projects\Backend\Project-2_To-Do-List\frontend\pexels-cottonbro-studio-4753996.jpg"); */
+}
+
+.container{
+  max-width: 1400px;
+  margin: 0 auto;
+  padding: 10px 20px;
+  /* display: flex; */
+  align-items: center;
+  justify-content: space-between;
+}
+
+h1{
+  text-align: center;
+}
+
+header a{
+  color: #ffffff;
+  text-decoration: none;
+  text-align: center;
+}
+
+.pages{
+  max-width: 1400px;
+  padding: 20px;
+  margin: 0 auto;
+}
+
+.home{
+  display: grid;
+  /* 3 fractions(3fr) on the left and 1 fraction(1fr) on the right */
+  grid-template-columns: 3fr 1fr; 
+  gap: 100px;
+  color: rgb(255, 255, 255);
+}
+
+.workouts{
+  color: rgb(255, 255, 255);
+}
+
+.load{
+  font-family: "Confortaa";
+}
+
+.reps{
+  font-family: "Confortaa";
+}
+
+.line{
+  border-bottom: 1px solid white;
+}
+
+.workout-details {
+  background: #353535;
+  border-radius: 4px;
+  margin: 20px auto;
+  padding: 20px;
+  position: relative;
+  box-shadow: 2px 2px 5px rgba(30, 0, 255, 0.05);
+}
+
+.workout-details h4 {
+  /* margin: top right bottom left */
+  margin: 0 0 10px 0;
+  font-size: 1.2em;
+}
+
+.workout-details p {
+  margin: 0;
+  font-size: 0.9em;
+  color: #ffffff;
+}
+
+.workout-details span {
+  position: absolute;
+  top: 20px;
+  right: 20px;
+  cursor: pointer;
+  background: #f1f1f1;
+  padding: 6px;
+  border-radius: 50%;
+  color: #333;
+}
+
+label, input {
+  display: block;
+}
+
+input {
+  padding: 10px;
+  margin-top: 20px;
+  margin-bottom: 30px;
+  width: 100%;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+form button {
+  background: rgb(255, 0, 0);
+  border: 0;
+  color: #fff;
+  padding: 10px;
+  font-family: "Eczar";
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+div.error {
+  padding: 10px;
+  background: #a2c7f9;
+  border: 1px solid var(--error);
+  color: var(--error);
+  border-radius: 4px;
+  margin: 20px 0;
+}
+
+input.error{
+  border: 1px solid;
+}
+
+/* .image{
+  display: inline-block;
+  width: 20px;
+  height: 20px; */
+  /* border-radius: 5px; */
+  /* background-image: url("D:/Projects/Backend/Project-2_To-Do-List/frontend/8664938_trash_can_delete_remove_icon.png"); */
+  /* background-size: cover; */
+  /* background-color: #ffffff; */
+
+/* } */
