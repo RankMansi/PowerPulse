@@ -21,7 +21,7 @@ This adaptability enables you to tailor your workouts to changing needs or condi
 
 Writing down your workout plan creates a sense of accountability. It serves as a reminder of your commitment to exercise and encourages you to follow through with your planned workouts. By creating a to-do list, you will have a clear view of your workout schedule. It helps you to stay organized and know what exercises to perform on a particular day.
 
-## How we built it
+## How I built it
 I built this tool with the help of languages like Node.js and Express.js for backend server and React for frontend. I built this tool with the help of VSCode as my editor and Postman as an API development tool.
 And then, I did the styling of the Page with the help of Google Fonts and for the icons, I used the Material Symbols and Icons which again are provided by Google Fonts. And this tool is compatible as I did the styling in such a manner that the content does not overflow.
 
@@ -32,12 +32,12 @@ I had some difficulties in the coding for the backend server.
 
 The most difficult issue for me was to adjust the tool so that when you add a new workout without refreshing the website, you should see the added workout on your screen, which I eventually did.... phew...!
 
-## Accomplishments that we're proud of
+## Accomplishments that I'm proud of
 I am very proud of myself for creating this tool for the betterment of one's life, as I always wanted to contribute some magical tools that could be helpful to the community and the people associated with it.
 
 Above all, I'm proud of myself for developing a full-stack web application that benefits the people around us.
 
-## What we learned
+## What I learned
 I had no idea of how to call the APIs, how to connect the backend server with the API development tool, i.e., Postman, and last but not least, how to modify the app so one can add and even delete any of the to-dos.
 
 ## What's next for PowerPulse
