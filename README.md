@@ -2,8 +2,8 @@
 Full-Stack CRUD Application
 
 Running of the App:
-1. Go to the backend folder and run "npm run dev".
-2. Then go to the frontend folder and run "npm start".
+1. Go to the backend folder and run `npm run dev`.
+2. Then go to the frontend folder and run `npm start`.
 3. And there goes your application and you can view it in browser.
 
 ## Inspiration
