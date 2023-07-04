@@ -12,7 +12,7 @@ In this continuously progressing world, people are busy with their own schedules
 Even the people with some of the disorders i.e., diabetes, heart failure, hypertension, etc., need to take care of themselves for a productive life to live. Ultimately, the inspiration behind a to-do list of Workouts lies in the desire to structure and optimize fitness routines, enhance motivation, track progress, customize workouts, and effectively manage time, all of which contribute to a healthier and more fulfilling fitness journey.
 
 ## What it does
-It is basically a CRUD application, where one can create, read📖, update and delete the workouts💪🏽.
+It is basically a CRUD application, where one can create, read, update and delete the workouts💪🏽.
 
 A to-do list allows individuals to track their progress over time. By reviewing completed workouts, they can see their achievements, identify areas for improvement, and adjust their future plans accordingly. Tracking progress provides a visual representation of one's enthusiasm and helps individuals stay influenced throughout their fitness journey.
 
