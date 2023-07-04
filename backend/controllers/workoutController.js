@@ -69,6 +69,7 @@ const deleteWorkout = async(req,res) => {
     res.status(200).json(workout)
 }
 
+// updates a Workout
 const updateWorkout = async(req,res) => {
     const {id} = req.params
 
@@ -86,6 +87,7 @@ const updateWorkout = async(req,res) => {
     res.status(200).json(workout)
 }
 
+// We need to export here by module.exports
 module.exports = {
     createWorkout,
     getWorkout, 
