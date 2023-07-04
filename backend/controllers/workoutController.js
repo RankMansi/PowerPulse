@@ -1,6 +1,7 @@
 const Workout = require('../models/WorkoutModel')
 const mongoose = require('mongoose')
 
+// gets workouts
 const getWorkout = async(req,res) => {
     const workouts = await Workout.find({}).sort({createdAt: -1})
 
