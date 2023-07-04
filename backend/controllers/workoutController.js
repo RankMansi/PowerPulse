@@ -8,6 +8,7 @@ const getWorkout = async(req,res) => {
     res.status(200).json(workouts)
 }
 
+// gets Single workout
 const getsingleWorkout = async(req,res) => {
     const {id} = req.params
 
@@ -23,6 +24,7 @@ const getsingleWorkout = async(req,res) => {
     res.status(200).json(workout)
 }
 
+// creates a Workout
 const createWorkout = async(req,res) => {
     const {title, reps, load} = req.body
 
@@ -50,6 +52,7 @@ const createWorkout = async(req,res) => {
     }
 }
 
+// deletes a Workout
 const deleteWorkout = async(req,res) => {
     const {id} = req.params
 
