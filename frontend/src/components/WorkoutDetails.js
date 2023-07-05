@@ -28,7 +28,6 @@ const WorkoutDetails = ({workout}) => {
             <p className="line"><br></br></p>
             <span className="material-symbols-outlined" onClick={handleClick}>
                 Delete
-                {/* <img src="D:/Projects/Backend/Project-2_To-Do-List/frontend/8664938_trash_can_delete_remove_icon.png"></img> */}
             </span>
         </div>
     )
