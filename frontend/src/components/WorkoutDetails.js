@@ -26,6 +26,9 @@ const WorkoutDetails = ({workout}) => {
             <br></br>
             <p>{formatDistanceToNow(new Date(workout.createdAt), {addSuffix: true})}</p>
             <p className="line"><br></br></p>
+    
+            // You can get the delete icon from google fonts of just you need to type material symbols outlined 
+    
             <span className="material-symbols-outlined" onClick={handleClick}>
                 Delete
             </span>
