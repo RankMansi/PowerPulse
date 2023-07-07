@@ -5,6 +5,7 @@ const WorkoutForm = () => {
 
     const {dispatch} = useWorkoutsContext()
 
+    // here useState hook is used for title, load, reps, error, emptyFields
     const [title, setTitle] = useState('')
     const [load, setLoad] = useState('')
     const [reps, setReps] = useState('')
