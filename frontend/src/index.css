@@ -16,7 +16,6 @@ body{
 
 header{
   background: rgb(0, 0, 0);
-  /* background-image: url("D:\Projects\Backend\Project-2_To-Do-List\frontend\pexels-cottonbro-studio-4753996.jpg"); */
 }
 
 .container{
@@ -136,14 +135,6 @@ div.error {
 input.error{
   border: 1px solid;
 }
-
-/* .image{
-  display: inline-block;
-  width: 20px;
-  height: 20px; */
-  /* border-radius: 5px; */
-  /* background-image: url("D:/Projects/Backend/Project-2_To-Do-List/frontend/8664938_trash_can_delete_remove_icon.png"); */
-  /* background-size: cover; */
   /* background-color: #ffffff; */
 
 /* } */
