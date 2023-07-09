@@ -23,7 +23,7 @@ Writing down your workout plan creates a sense of accountability. It serves as a
 
 ## How I built it
 I built this tool with the help of languages like Node.js and Express.js for backend server and React for frontend. I built this tool with the help of VSCode as my editor and Postman as an API development tool.
-And then, I did the styling of the Page with the help of Google Fonts and for the icons, I used the Material Symbols and Icons which again are provided by Google Fonts. And this tool is compatible as I did the styling in such a manner that the content does not overflow.
+And then, I did the styling of the Page with the help of CSS and the fonts used in it are taken from Google Fonts and for the icons, I used the Material Symbols and Icons which again are provided by Google Fonts. And this tool is compatible and responsive as I did the styling in such a manner that the content does not overflow.
 
 ## Challenges I ran into
 I ran into several errors, as this was my first time making a Full-Stack Application.
