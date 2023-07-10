@@ -17,5 +17,6 @@ const workoutSchema = new Schema({
         required: true
     }
 }, {timestamps: true})
+// Here, timestamps will be shown in the interface of the website so that one can know exactly that at which time that particular workout was created.
 
 module.exports = mongoose.model('Workout', workoutSchema) 
