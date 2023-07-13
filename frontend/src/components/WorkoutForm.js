@@ -71,6 +71,7 @@ const WorkoutForm = () => {
             />
 
             <button>Add Workout</button>
+// Error Handling
             {error && <div className="error">{error}</div>}
 
         </form>
