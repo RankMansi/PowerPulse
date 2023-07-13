@@ -22,7 +22,7 @@ This adaptability enables you to tailor your workouts to changing needs or condi
 Writing down your workout plan creates a sense of accountability. It serves as a reminder of your commitment to exercise and encourages you to follow through with your planned workouts. By creating a to-do list, you will have a clear view of your workout schedule. It helps you to stay organized and know what exercises to perform on a particular day.
 
 ## How I built it
-I built this tool with the help of languages like Node.js and Express.js for backend server and React for frontend. I built this tool with the help of VSCode as my editor and Postman as an API development tool.
+I built this tool with the help of languages like Node.js and Express.js for backend server and React for frontend. I built this tool with the help of VSCode as my editor and Postman as an API Testing tool.
 And then, I did the styling of the Page with the help of CSS and the fonts used in it are taken from Google Fonts and for the icons, I used the Material Symbols and Icons which again are provided by Google Fonts. And this tool is compatible and responsive as I did the styling in such a manner that the content does not overflow.
 
 ## Challenges I ran into
@@ -38,7 +38,7 @@ I am very proud of myself for creating this tool for the betterment of one's lif
 Above all, I'm proud of myself for developing a full-stack web application that benefits the people around us.
 
 ## What I learned
-I had no idea of how to call the APIs, how to connect the backend server with the API development tool, i.e., Postman, and last but not least, how to modify the app so one can add and even delete any of the to-dos.
+I had no idea of how to call the APIs, how to connect the backend server with the API Testing tool, i.e., Postman, and last but not least, how to modify the app so one can add and even delete any of the to-dos.
 
 ## What's next for PowerPulse
 I'll give it my all to come up with new features because viewing the same UI over and over can grow boring.
