@@ -1,1 +1,3 @@
+/* This will not include the node modules */
+
 /node_modules
