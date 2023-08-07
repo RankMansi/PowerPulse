@@ -5,6 +5,7 @@ const mongoose = require('mongoose')
 const getWorkout = async(req,res) => {
     const workouts = await Workout.find({}).sort({createdAt: -1})
 
+    // 200 status code - for successsful HTTP request
     res.status(200).json(workouts)
 }
 
